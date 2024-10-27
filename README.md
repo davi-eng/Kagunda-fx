@@ -63,7 +63,7 @@ Trading forex bainary html page
 
             <div class="download-links">
                 <h2>Download Trading Bots</h2>
-                <a href="[https://github.com/toptraderke/freetradingbots download>Download Bot 1</a>]"
+                <a href="[https://github.com/toptraderke/freetradingbots]" download>Download Bot 1</a>
                 <a href="[YOUR_BOT_DOWNLOAD_LINK_2]" download>Download Bot 2</a>
                 <!-- Add more bot links as needed -->
             </div>
