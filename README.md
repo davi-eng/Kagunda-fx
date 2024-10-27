@@ -1,4 +1,4 @@
-# Kagunda-fx
+# Kagunda-fx.github.io
 Trading forex bainary html page
 <!DOCTYPE html>
 <html lang="en">
