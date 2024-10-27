@@ -59,7 +59,7 @@ Trading forex bainary html page
     <div class="container">
         <div class="content">
             <p>Click the link below to join Deriv and start trading with us:</p>
-            <a href="[YOUR_DERIV_AFFILIATE_LINK]" target="_blank" style="color: blue; font-weight: bold;">Join Deriv</a>
+            <a href="[https://track.deriv.com/_Xc6gqn0E0asKqFKZ7JdnQ2Nd7ZgqdRLk/1/]" target="_blank" style="color: blue; font-weight: bold;">Join Deriv</a>
 
             <div class="download-links">
                 <h2>Download Trading Bots</h2>
